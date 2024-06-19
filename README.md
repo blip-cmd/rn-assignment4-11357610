@@ -2,9 +2,13 @@
 
 # JJob Mobile Application
 
-![Screenshot 1](./assets/app1.jpg)
-![Screenshot 2](./assets/app2.jpg)
-![Screenshot 3](./assets/app3.jpg)
+![app screenshot 1](JJob\assets\app1.jpg)
+![app screenshot 2](JJob\assets\app2.jpg)
+![app screenshot 3](JJob\assets\app3.jpg)
+
+![app1](./assets/app1.jpg)
+![app2](./assets/app2.jpg)
+![app3](./assets/app3.jpg)
 
 ## Description
 
